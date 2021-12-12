@@ -14,7 +14,7 @@
     <li>Service call Service</li>
     <li>Retry</li>
     <li>Ratelimiter</li>
-    <li>Service discovery eureka client-service</li>
+    <li>Service discovery eureka client-sever</li>
     <li>API gateway</li>
     <li>Cloud Config service</li>
     <li>Heroku, AWS</li>
