@@ -11,7 +11,7 @@
 </ul>
 <h3>Sử dụng:</h3>
 <ul>
-    <li>Service call User</li>
+    <li>Service call Service</li>
     <li>Retry</li>
     <li>Ratelimiter</li>
     <li>Service discovery eureka client-service</li>
