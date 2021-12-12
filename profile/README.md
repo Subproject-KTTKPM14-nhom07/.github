@@ -32,7 +32,7 @@
 <h4>Euroka: http://18.136.126.140:8761/</h4>
 <h4>Get all user không jwt (jwt cho post,delete): http://18.136.126.140:8000/user/</h4>
 <h4>Cloud config: http://18.136.126.140:8888/</h4>
-<h4>Lấy all post: http://18.136.126.140:8761/</h4>
+<h4>Lấy all post: http://18.142.162.108:8001/post/</h4>
 <h4>Lấy all post có redis: http://18.142.162.108:8001/post/redis/ (Lần đầu chậm từ lần sau nhanh)</h4>
 <h4>Lấy all post có retry: http://18.142.162.108:8001/post/retry/ (Ấn liên tục sẽ bị chậm do ratelimiter bên user gây error, post phải retry lại)</h4>
 <h4>Euroka: http://18.136.126.140:8761/</h4>
