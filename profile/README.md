@@ -16,7 +16,7 @@
     <li>Ratelimiter</li>
     <li>Service discovery eureka client-service</li>
     <li>API gateway</li>
-    <li>Cloud Confgi service</li>
+    <li>Cloud Config service</li>
     <li>Heroku, AWS</li>
     <li>Cache Redis</li>
     <li>JWT</li>
