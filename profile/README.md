@@ -23,8 +23,9 @@
     <li>UI</li>
 </ul>
  <h3>Mô tả cấu trúc:</h3>
- <img stype="width:100%" src="https://f20-group-zf.zdn.vn/802ebe3545d1aa8ff3c0/5504669170212345668"/>
+ <img stype="width:100%" src="https://f20-group-zf.zdn.vn/8ec1002bfecf119148de/3234134756995282069"/>
 
+<h3>Link demo: https://www.youtube.com/watch?v=EC5_lrbLVF4</h3>
 <h3>Test:</h3>
 <h4>-EC2: http://18.136.126.140</h4>
 <h4>-EC2: http://18.142.162.108</h4>
